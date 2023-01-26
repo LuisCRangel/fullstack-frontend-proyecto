@@ -32,7 +32,7 @@ export default function SignUp() {
             </div>
             <div className="flex flex-col mx-14 mb-4 gap-4">
             <button className="bg-primary-blue text-[#ffffff] text-base font-semibold leading-5 rounded-md p-3">Create Account</button>
-            <span className="h400-normal-16px text-primary-grayLight text-center" >or Log in</span>
+            <span className="h400-normal-16px text-primary-grayLight text-center" >or <a href="/login">Log in</a> </span>
             </div>
           </div>
       </div>

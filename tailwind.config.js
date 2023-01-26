@@ -30,6 +30,7 @@ module.exports = {
     },   
     extend: {
       backgroundImage: {
+        'nav-logo': "url('../public/img/Nav-logo.png')",
         'login-img': "url('../public/img/Rectangle 133.png')",        
         'sign-up-img': "url('../public/img/Rectangle.png')",        
         'footer-img': "url('../public/img/Rectangle21.png')",        
@@ -58,8 +59,8 @@ module.exports = {
       height:{
         5.5:'1.375rem',
         12.5: '3.0625rem',
-        28: '52rem',
-        29: '30.5rem'
+        28: '52rem',        
+        122: '30.5rem'
       },
       borderRadius: {
         '4xl': '2rem',
